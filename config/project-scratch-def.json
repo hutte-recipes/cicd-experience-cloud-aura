@@ -1,5 +1,10 @@
 {
-  "orgName": "Hutte Recipes",
-  "edition": "Developer",
-  "features": []
+	"orgName": "Hutte Recipes",
+	"edition": "Developer",
+	"features": ["Communities"],
+	"settings": {
+		"communitiesSettings": {
+			"enableNetworksEnabled": true
+		}
+	}
 }
