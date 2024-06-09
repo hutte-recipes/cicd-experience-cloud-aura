@@ -15,6 +15,8 @@ When using a sandbox or scratch org that is not having the current config/projec
 
 TODO
 
+Behind the scenes, Help Center template is using Aura + Visualforce components, therefore the same guidelines provided in this recipe apply for Aura & Visualforce sites. (site-types screenshot).
+
 This recipe includes the [cicd-incremental-deployment](https://github.com/hutte-recipes/cicd-incremental-deployment) recipe in order to validate (in a pull request) and deploy the Experience Cloud sites, see more about this recipe in the linked repository.
 
 ## Pre-requisites
